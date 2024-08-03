@@ -7,3 +7,6 @@
  training images and more detailed segmentations. We will be chiefly concerned with predicting a good
  segmentation map using UNet that is able to combine the local and contextual information to
  accomplish this task. The entire project will be implemented using Python in Jupyter Note Book
+
+ ![image](https://github.com/user-attachments/assets/3ebe1928-dec2-406a-90fa-e8ac2ddbbc09)
+
